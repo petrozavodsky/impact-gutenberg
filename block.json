@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "icon": "admin-site",
+  "name": "impact-gutenberg/block",
+  "title": "Impact block",
+  "description": "Demo block",
+  "category": "design",
+  "editorScript": "file:./build/index.js",
+  "editorStyle": "file:./public/css/editor.css",
+  "style": "file:./public/css/front.css"
+}
